@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "786076253550",
+    "firebase_url": "https://getmail-2d2d9.firebaseio.com",
+    "project_id": "getmail-2d2d9",
+    "storage_bucket": "getmail-2d2d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786076253550:android:8348d34f83ef2d34",
+        "android_client_info": {
+          "package_name": "com.apps.rannable.getmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786076253550-91l1n8mcihki9akh8h2m15r1068uk9nr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.rannable.getmail",
+            "certificate_hash": "5eac71a1b707c675634bfb51d21194d26f04f042"
+          }
+        },
+        {
+          "client_id": "786076253550-b8t7dm0u8jl4sa1l6kh682ksb7qcdi9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9hrsxGCZMt8kLyS2vjsorVFB8nwx3gg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786076253550-b8t7dm0u8jl4sa1l6kh682ksb7qcdi9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Get My Mail</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5598991476890932/6433973006</string>
+
+
+    <!--this is demo:-->
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+
+</resources>
